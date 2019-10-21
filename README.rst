@@ -2,7 +2,6 @@
  Regional Community Earth System Model - RCESM1
 ==================================
 
-
 RCESM1.0 is a modified version of CESM2.1 that has the functionality
 to run a regional coupled model with wrf, roms, and clm4.0 as the
 atmosphere, ocean, and land components.
